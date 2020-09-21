@@ -1,0 +1,11 @@
+name: Luna
+author: GladUrBad
+version: 1.0-PRE
+main: luna.anticheat.core.Luna
+description: Stops hackers from cheating on your server.
+
+commands:
+  luna:
+    description: Luna Anticheat commands.
+    usage: /<command>
+

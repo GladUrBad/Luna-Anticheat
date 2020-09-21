@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Luna-AC-1.8x:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Luna_AC_1_8x_jar</output-path>
+    <root id="archive" name="Luna-AC-1.8x.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Luna-AC-1.8x" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
